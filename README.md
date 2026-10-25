@@ -10,7 +10,8 @@
 
 
 ## Preview
-<img width="609" height="202" alt="iconpack" src="https://github.com/user-attachments/assets/27b707fc-4cc1-43a7-9336-b38e7791475e" />
+<img width="609" height="202" alt="iconpack" src="https://github.com/user-attachments/assets/d5cac31f-882e-4b9b-b8f0-717303301f42" />
+
 
 ## Download
 
