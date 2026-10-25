@@ -2,7 +2,6 @@
 
 # WoW Forever Clean Icons
 
-**Clean Icons for WoW Forever**
 
 *Original resolution • 2px black borders*
 
@@ -24,7 +23,7 @@
 2. Copy the extracted `Icons` folder into your WoW Forever game's `Interface` folder so the icons are located under `Interface\Icons\`.
 3. Restart the game to load the replacement textures.
 
-**Note:** Check the ZIP's folder layout before copying: you want `Interface\Icons\<icon name>.blp`, not an extra nested `Icons\Icons` folder. Back up any existing replacement files first. Installation in WoW Forever has not yet been independently verified. But i've tested in different WoW versions that are live atm and they all work
+**Note:** Check the ZIP's folder layout before copying: you want `Interface\Icons\<icon name>.blp`, not an extra nested `Icons\Icons` folder. Installation in WoW Forever has not yet been independently verified. But i've tested in different WoW versions that are live atm and they all work
 
 
 
